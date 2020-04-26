@@ -1,2 +1,2 @@
-# BounceOff-Algorithm
-This is a algorithm made on Visual Studio Code
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
